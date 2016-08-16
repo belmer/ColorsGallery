@@ -1,4 +1,8 @@
-# Tools
+# Description
+	
+	A small demo app that uses firebase and react
+
+# Tools Used
 
 > Nodejs
 
