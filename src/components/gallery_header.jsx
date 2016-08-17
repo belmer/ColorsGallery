@@ -4,7 +4,7 @@ const Header=()=>
 {
 	return (
 			<div className='header-bar'>
-				<h3>Gallery</h3>
+				<h3>Colors Gallery</h3>
 			</div>
 			)
 }
